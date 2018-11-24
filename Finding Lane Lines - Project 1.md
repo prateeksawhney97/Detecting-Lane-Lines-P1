@@ -17,4 +17,7 @@ The draw_lines() function has to be modified in order to extrapolate the lane li
 
 ### Potential shortcomings with my current pipeline:
 
-The only drawback is that when I try to run the "challenge.mp4" video, the lane lines are not recognised correctly. There is a ot of flickering and wrong detection in between when the road is curved left or right. This means the current pipeline is not so good for curved roads.
+The only drawback is that when I try to run the "challenge.mp4" video, the lane lines are not recognised correctly. There is a lot of flickering and wrong detection in between when the road is curved left or right. This means the current pipeline is not so good for curved roads.
+
+### Possible improvements:
+
