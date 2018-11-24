@@ -26,7 +26,7 @@
 
 ### Modification of draw_line() helper function:
 
-The draw_lines() function has to be modified in order to extrapolate/average/connect the lane lines. For this, created two dictionaries, left_lane_longest{} and right_lane_longest{} to store slope, intercept and length. The slope is calculated for each and every point unless their x -coordinate is equal. On the basis of slope the left and right lanes and segregated. Iteration is done on all the lines that are returned by the hough transform to find the longest line.
+The draw_lines() function has to be modified in order to extrapolate/average/connect the lane lines. For this, created two dictionaries, left_lane_longest{} and right_lane_longest{} to store slope, intercept and length. The slope is calculated for each and every point unless their x -coordinate is equal. On the basis of slope the left and right lanes and segregated. Iteration is done on all the lines that are returned by the hough transform to plot the longest found line.
 
 ---
 
