@@ -14,5 +14,4 @@ them, It means and edge and is detected using the canny() function.
 
 ### Modification:
 
-The draw_lines() function has to be modified in order to extrapolate the lane lines. For this, I created two dictionaries and
-iterated over all lines returned by Hough transform to find the longest. I stored its slope and intercept too in the dictionary after which I plotted this longest found line on the image. This procedure is repeated for both the left lane and the right lane. As the axis orientation in the image is different, left lane must have a positive slope (slope>0) and right lane must have the negative sloped (slope<0).
+The draw_lines() function has to be modified in order to extrapolate the lane lines. For this, 
