@@ -11,7 +11,10 @@
 5. Hough transform is used thereafter via Open CV method which helped connecting lines, we are interested in and in eliminating the rest. In this step we also used the draw_lines() method to add lines over the lanes in the image and extrapolate them.
 6. Last step was to merge both the modified image and the original one to produce the result using the weighted_img() function.
 
-### Modification:
+### Output Images without extrapolated lane lines:
+
+
+### Modification of draw_line() helper function:
 
 The draw_lines() function has to be modified in order to extrapolate the lane lines. For this, 
 
