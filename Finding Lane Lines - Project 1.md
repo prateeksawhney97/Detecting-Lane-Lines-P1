@@ -18,6 +18,7 @@
 ![download 2](https://user-images.githubusercontent.com/34116562/48964912-4be3e100-efd8-11e8-973c-53c74c083a08.png)
 ![download 3](https://user-images.githubusercontent.com/34116562/48964913-4be3e100-efd8-11e8-8630-e1d1148d59b5.png)
 ![download 4](https://user-images.githubusercontent.com/34116562/48964915-4e463b00-efd8-11e8-81e1-17f511c3d629.png)
+![download 5](https://user-images.githubusercontent.com/34116562/48964925-ab41f100-efd8-11e8-8ff9-7ae8b62bff22.png)
 
 
 ### Modification of draw_line() helper function:
