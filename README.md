@@ -7,6 +7,8 @@
 
 # Finding Lane Lines on the Road
 
+![](giphy (1).gif)
+
 ### My Pipeline consisted of 6 steps:
 
 1. Conversion of image to grayscale using the grayscale() function.
