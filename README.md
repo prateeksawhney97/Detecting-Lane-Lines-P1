@@ -11,6 +11,8 @@
 
 ![](giphy2.gif)
 
+### Youtube - https://youtu.be/SvEiPJpGhac
+
 ### My Pipeline consisted of 6 steps:
 
 1. Conversion of image to grayscale using the grayscale() function.
