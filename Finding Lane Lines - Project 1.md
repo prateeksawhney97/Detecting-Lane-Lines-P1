@@ -38,4 +38,4 @@ The only drawback is that when I try to run the "challenge.mp4" video, the lane 
 
 ### Possible improvements:
 
-Improvements in the Pipeline are needed so that the curved lane lines are also detected without any error. Moreover, the autonomous car will face all kind of road conditions, so some changes must be made to the pipeline in order to make the lane finding error free. The pipeline should be redifined in such a way so that the "challenge.mp4" video is also detected error free.
+Improvements in the Pipeline are needed so that the curved lane lines are also detected without any error. Moreover, the autonomous car will face all kind of road conditions, so some changes must be made to the pipeline in order to make the lane finding error free. The pipeline should be redefined in such a way so that the "challenge.mp4" video is also detected error free.
