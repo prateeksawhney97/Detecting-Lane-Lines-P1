@@ -7,7 +7,7 @@
 
 # Finding Lane Lines on the Road
 
-![](giphy (1).gif)
+![](giphy2.gif)
 
 ### My Pipeline consisted of 6 steps:
 
