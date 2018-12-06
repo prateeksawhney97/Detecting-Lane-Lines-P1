@@ -3,6 +3,8 @@
 
 # Project 1
 
+### Youtube - https://youtu.be/SvEiPJpGhac
+
 ### Solid Yellow Left
 
 ![](giphy.gif)
@@ -11,7 +13,6 @@
 
 ![](giphy2.gif)
 
-### Youtube - https://youtu.be/SvEiPJpGhac
 
 ### My Pipeline consisted of 6 steps:
 
