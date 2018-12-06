@@ -3,9 +3,11 @@
 
 # Project 1
 
+### Solid Yellow Left
+
 ![](giphy.gif)
 
-# Finding Lane Lines on the Road
+### Solid White Right
 
 ![](giphy2.gif)
 
