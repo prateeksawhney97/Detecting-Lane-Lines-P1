@@ -3,6 +3,8 @@
 
 # Project 1
 
+![](giphy.gif)
+
 # Finding Lane Lines on the Road
 
 ### My Pipeline consisted of 6 steps:
